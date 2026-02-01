@@ -23,7 +23,7 @@ Course Survey: [https://aka.ms/ms4023survey](https://aka.ms/ms4023survey)
 [ESI Support](https://aka.ms/esisupport)
 
 
-
+預錄影片: [Pre-Recorded Video: Explore Microsoft 365 Copilot Chat MS-4023](https://www.youtube.com/watch?v=jdwx6ztuJpE&msockid=4de37a33fc9411f0bd4b724a25d704e3)
 <!--## Course Info-->
 
 
